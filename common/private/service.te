@@ -6,3 +6,6 @@ type custom_globalactions_service, system_api_service, system_server_service, se
 
 # Linearmotor Vibrator
 type linearmotor_vibrator_service, system_api_service, system_server_service, service_manager_type;
+
+# Optimized charge HAL
+type optimizedcharge_service, system_api_service, system_server_service, service_manager_type;
